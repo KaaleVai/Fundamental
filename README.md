@@ -1,2 +1,3 @@
 # Fundamental
-This is scratch
+This is my first git repositoty
+Author- Mohan Gurung
